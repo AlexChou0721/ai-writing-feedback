@@ -1,4 +1,8 @@
 # AI Writing Feedback Assistant
+🔗**Live Demo:** https://alexchou0721.github.io/ai-writing-feedback/
+![Demo Screenshot](client/public/demo.png)
+
+
 
 A teacher-oriented AI-assisted writing feedback tool designed for English language learning.
 
